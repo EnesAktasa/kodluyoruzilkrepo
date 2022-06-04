@@ -21,5 +21,8 @@ Pull requestler kabul edilir.Büyük değişiklikler için,lütfen önce neyi de
 ## License
 
 [MIT] (https://choosealicense.com/licenses/mit/)
+![Proje resmim](https://user-images.githubusercontent.com/106099002/171991880-6ffb6f24-56ec-4e96-8dad-8fc8e43872fd.PNG)
+
+
 
 **[Patika.dev](https://app.patika.dev/)**
